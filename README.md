@@ -21,5 +21,5 @@
 1. Установи Java 17+ (см. [adoptium.net](https://adoptium.net/))
 2. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/ТВОЙ_НИК/твой-репо.git
-   cd твой-репо
+   git clone https://github.com/PlutonAleksandr/TextHarbor.git
+   cd TextHarbor
